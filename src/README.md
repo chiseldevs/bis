@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /assets/header-logo.png
-heroText: Chisel Devs || Development Portal
-tagline: Centralized Work Center Service for WIUT's Educational Purposes!
+heroText: BIS || Chisel Devs
+tagline: BSc (Hons) in Business Information Systems
 actionText: Get Started
 actionLink: /about/
 features:
