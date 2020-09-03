@@ -165,7 +165,7 @@ module.exports = {
       defaultDarkTheme: true,
     },
     logo: "/assets/logo.png",
-    repo: "genestatic/bis",
+    repo: "chiseldevs/bis",
     docsBranch: "master",
     algolia: {
       apiKey: "e4d6caaf31d6f840693811e5db8b56dc",
