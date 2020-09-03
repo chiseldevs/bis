@@ -2,7 +2,7 @@
   <a href="https://t.me/chiseldevs">
     <img src="src/.vuepress/public/assets/header-logo.png" width="180" height="180">
   </a>
-  <h1 align="center">Chisel Devs</h1>
+  <h1 align="center">BIS || Chisel Devs</h1>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ below:
 
 ```bash
 // Clone the project
-git clone https://github.com/sakhib-orzklv/chisel.git ./chisel
+git clone https://github.com/chiseldevs/bis.git ./lab
 
 // Enter the project root folder
 cd chisel
@@ -41,7 +41,7 @@ yarn run docs:dev
 yarn run docs:build && mv docs/.vuepress/dist ./dist
 ```
 
-> The web page is still in beta phase so feel free to [open issues](https://github.com/chiseldevs/chisel/issues/new) and give me some suggestions.
+> The web page is still in beta phase so feel free to [open issues](https://github.com/chiseldevs/bis/issues/new) and give me some suggestions.
 
 ---
 
