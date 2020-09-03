@@ -193,7 +193,7 @@ module.exports = {
           {
             text: "Home",
             link: "https://chisel.uz",
-            target: "_self"
+            target: "_self",
           },
           {
             text: "Issues",
