@@ -1,4 +1,4 @@
-<p align="center"><a href="https://chisel.uz" target="_blank"><img height="300" width="300" src="https://raw.githubusercontent.com/chiseldevs/bis/master/src/.vuepress/public/assets/logo.png"/></a></p>
+<p align="center"><a href="https://chisel.uz" target="_blank"><img height="300" width="300" src="./src/.vuepress/public/assets/logo.png"/></a></p>
 <h2 align="center">BIS || Chisel Devs</h2>
 <p align="center"><a href="https://app.netlify.com/sites/chisel/deploys"><img src="https://api.netlify.com/api/v1/badges/1180daa0-df1b-4259-b0cb-d56926833117/deploy-status"></a></p>
 <p align="center"> Centralized Data Center for <a href="https://wiut.uz" target="_blank">WIUT</a>'s students.</p>
