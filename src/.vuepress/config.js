@@ -197,7 +197,7 @@ module.exports = {
           },
           {
             text: "Issues",
-            link: "https://github.com/genestatic/bis/issues",
+            link: "https://github.com/chiseldevs/bis/issues",
             target: "_self",
           },
           {
