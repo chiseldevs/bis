@@ -188,11 +188,11 @@ module.exports = {
     logo: "/assets/logo.png",
     repo: "chiseldevs/bis",
     docsBranch: "master",
-    algolia: {
-      apiKey: "e4d6caaf31d6f840693811e5db8b56dc",
-      appId: "5HEBRR0MXO",
-      indexName: "chisel",
-    },
+    // algolia: {
+    //   apiKey: "e4d6caaf31d6f840693811e5db8b56dc",
+    //   appId: "5HEBRR0MXO",
+    //   indexName: "chisel",
+    // },
     docsDir: "src",
     sidebarDepth: 3,
     editLinks: true,
@@ -284,6 +284,14 @@ module.exports = {
           {
             text: "Main",
             link: "/fop/",
+          },
+          {
+            text: "Overview",
+            link: "/fop/overview/",
+          },
+          {
+            text: "Useful",
+            link: "/fop/useful",
           },
         ],
       },
