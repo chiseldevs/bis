@@ -14,7 +14,8 @@ module.exports = {
     },
     "/imob/": {
       title: "IMOB | BIS",
-      description: "Introduction to Management and Organisational Behavior | BIS",
+      description:
+        "Introduction to Management and Organisational Behavior | BIS",
     },
     "/isds/": {
       title: "ISDS | BIS",
@@ -23,7 +24,7 @@ module.exports = {
     "/wt/": {
       title: "WT | BIS",
       description: "Web Technology | BIS",
-    }
+    },
   },
   head: [
     ["link", { rel: "icon", href: "/assets/favicons/favicon.ico" }],
@@ -212,7 +213,7 @@ module.exports = {
           },
           {
             text: "About",
-            link: "/about/"
+            link: "/about/",
           },
           {
             text: "Chisel",
@@ -326,7 +327,7 @@ module.exports = {
             link: "/wt/",
           },
         ],
-      }
+      },
     },
   },
 };
