@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to the BIS Level 4th course</h1>
 
+<p align="center"><a href="https://bis.chisel.uz/files/handbook.pdf">Download Handbook 2020-2021</a></p>
+
 | Code      | Module name                                                    | Priority |
 | --------- | -------------------------------------------------------------- | -------- |
 | 4BUIS008C | Fundamentals of Programming (Year Long)                        | Core     |
