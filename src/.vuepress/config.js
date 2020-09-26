@@ -4,6 +4,26 @@ module.exports = {
       title: "BIS | Chisel Devs",
       description: "BSc (Hons) in Business Information Systems",
     },
+    "/csf/": {
+      title: "CSF | BIS",
+      description: "Computer Science Fundamentals | BIS",
+    },
+    "/fop/": {
+      title: "FOP | BIS",
+      description: "Fundamentals of Programming | BIS",
+    },
+    "/imob/": {
+      title: "IMOB | BIS",
+      description: "Introduction to Management and Organisational Behavior | BIS",
+    },
+    "/isds/": {
+      title: "ISDS | BIS",
+      description: "Introduction to Statistics and Data Science | BIS",
+    },
+    "/wt/": {
+      title: "WT | BIS",
+      description: "Web Technology | BIS",
+    }
   },
   head: [
     ["link", { rel: "icon", href: "/assets/favicons/favicon.ico" }],
@@ -191,6 +211,117 @@ module.exports = {
             link: "/",
           },
           {
+            text: "Chisel",
+            link: "https://chisel.uz",
+            target: "_self",
+          },
+          {
+            text: "Issues",
+            link: "https://github.com/chiseldevs/bis/issues",
+            target: "_self",
+          },
+          {
+            text: "Links",
+            ariaLabel: "Links Menu",
+            items: [
+              {
+                text: "Telegram",
+                items: [
+                  {
+                    text: "Community",
+                    link: "tg://resolve?domain=chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "+70 BIS",
+                    link: "tg://resolve?domain=SeventyPlusBIS",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Contact",
+                    link: "tg://resolve?domain=genemator_bot",
+                    target: "_blank",
+                  },
+                ],
+              },
+              {
+                text: "Devs",
+                items: [
+                  {
+                    text: "Group",
+                    link: "https://t.me/chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "GitHub",
+                    link: "https://github.com/chiseldevs",
+                    target: "_blank",
+                  },
+                ],
+              },
+            ],
+          },
+          {
+            text: "Modules",
+            ariaLabel: "Modules",
+            items: [
+              // {
+              //   text: "1st Year",
+              //   items: [
+              //     {
+              //       text: "BIS",
+              //       link: "https://bis.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //     {
+              //       text: "Business",
+              //       link: "https://bs.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //   ],
+              // },
+              {
+                text: "CFS4",
+                items: [
+                  {
+                    text: "BIS",
+                    link: "https://bis.chisel.uz/",
+                    target: "_self",
+                  },
+                  {
+                    text: "Business",
+                    link: "https://bs.chisel.uz/",
+                    target: "_self",
+                  },
+                ],
+              },
+            ],
+          },
+        ],
+      },
+      "/csf/": {
+        label: "Computer Science Fundamentals",
+        selectText: "Modules",
+        ariaLabel: "Modules",
+        editLinkText: "~Correct mistakes~",
+        nav: [
+          {
+            text: "Main",
+            link: "/csf/",
+          },
+        ],
+      },
+      "/fop/": {
+        label: "Fundamentals of Programming",
+        selectText: "Modules",
+        ariaLabel: "Modules",
+        editLinkText: "~Correct mistakes~",
+        nav: [
+          {
+            text: "Main",
+            link: "/",
+          },
+          {
             text: "Home",
             link: "https://chisel.uz",
             target: "_self",
@@ -279,6 +410,303 @@ module.exports = {
           },
         ],
       },
+      "/imob/": {
+        label: "Introduction to Management and Organisational Behavior",
+        selectText: "Modules",
+        ariaLabel: "Modules",
+        editLinkText: "~Correct mistakes~",
+        nav: [
+          {
+            text: "Main",
+            link: "/",
+          },
+          {
+            text: "Home",
+            link: "https://chisel.uz",
+            target: "_self",
+          },
+          {
+            text: "Issues",
+            link: "https://github.com/chiseldevs/bis/issues",
+            target: "_self",
+          },
+          {
+            text: "Links",
+            ariaLabel: "Links Menu",
+            items: [
+              {
+                text: "Telegram",
+                items: [
+                  {
+                    text: "Community",
+                    link: "tg://resolve?domain=chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "News",
+                    link: "tg://resolve?domain=genestatic",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Contact",
+                    link: "tg://resolve?domain=genemator_bot",
+                    target: "_blank",
+                  },
+                ],
+              },
+              {
+                text: "Devs",
+                items: [
+                  {
+                    text: "Group",
+                    link: "https://t.me/chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "GitHub",
+                    link: "https://github.com/chiseldevs",
+                    target: "_blank",
+                  },
+                ],
+              },
+            ],
+          },
+          {
+            text: "Modules",
+            ariaLabel: "Modules",
+            items: [
+              // {
+              //   text: "1st Year",
+              //   items: [
+              //     {
+              //       text: "BIS",
+              //       link: "https://bis.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //     {
+              //       text: "Business",
+              //       link: "https://bs.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //   ],
+              // },
+              {
+                text: "2nd Year",
+                items: [
+                  {
+                    text: "BIS",
+                    link: "https://bis.chisel.uz/",
+                    target: "_self",
+                  },
+                  {
+                    text: "Business",
+                    link: "https://bs.chisel.uz/",
+                    target: "_self",
+                  },
+                ],
+              },
+            ],
+          },
+        ],
+      },
+      "/isds/": {
+        label: "Introduction to Statistics and Data Science",
+        selectText: "Modules",
+        ariaLabel: "Modules",
+        editLinkText: "~Correct mistakes~",
+        nav: [
+          {
+            text: "Main",
+            link: "/",
+          },
+          {
+            text: "Home",
+            link: "https://chisel.uz",
+            target: "_self",
+          },
+          {
+            text: "Issues",
+            link: "https://github.com/chiseldevs/bis/issues",
+            target: "_self",
+          },
+          {
+            text: "Links",
+            ariaLabel: "Links Menu",
+            items: [
+              {
+                text: "Telegram",
+                items: [
+                  {
+                    text: "Community",
+                    link: "tg://resolve?domain=chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "News",
+                    link: "tg://resolve?domain=genestatic",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Contact",
+                    link: "tg://resolve?domain=genemator_bot",
+                    target: "_blank",
+                  },
+                ],
+              },
+              {
+                text: "Devs",
+                items: [
+                  {
+                    text: "Group",
+                    link: "https://t.me/chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "GitHub",
+                    link: "https://github.com/chiseldevs",
+                    target: "_blank",
+                  },
+                ],
+              },
+            ],
+          },
+          {
+            text: "Modules",
+            ariaLabel: "Modules",
+            items: [
+              // {
+              //   text: "1st Year",
+              //   items: [
+              //     {
+              //       text: "BIS",
+              //       link: "https://bis.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //     {
+              //       text: "Business",
+              //       link: "https://bs.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //   ],
+              // },
+              {
+                text: "2nd Year",
+                items: [
+                  {
+                    text: "BIS",
+                    link: "https://bis.chisel.uz/",
+                    target: "_self",
+                  },
+                  {
+                    text: "Business",
+                    link: "https://bs.chisel.uz/",
+                    target: "_self",
+                  },
+                ],
+              },
+            ],
+          },
+        ],
+      },
+      "/wt/": {
+        label: "Web Technology",
+        selectText: "Modules",
+        ariaLabel: "Modules",
+        editLinkText: "~Correct mistakes~",
+        nav: [
+          {
+            text: "Main",
+            link: "/",
+          },
+          {
+            text: "Home",
+            link: "https://chisel.uz",
+            target: "_self",
+          },
+          {
+            text: "Issues",
+            link: "https://github.com/chiseldevs/bis/issues",
+            target: "_self",
+          },
+          {
+            text: "Links",
+            ariaLabel: "Links Menu",
+            items: [
+              {
+                text: "Telegram",
+                items: [
+                  {
+                    text: "Community",
+                    link: "tg://resolve?domain=chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "News",
+                    link: "tg://resolve?domain=genestatic",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Contact",
+                    link: "tg://resolve?domain=genemator_bot",
+                    target: "_blank",
+                  },
+                ],
+              },
+              {
+                text: "Devs",
+                items: [
+                  {
+                    text: "Group",
+                    link: "https://t.me/chiseldevs",
+                    target: "_blank",
+                  },
+                  {
+                    text: "GitHub",
+                    link: "https://github.com/chiseldevs",
+                    target: "_blank",
+                  },
+                ],
+              },
+            ],
+          },
+          {
+            text: "Modules",
+            ariaLabel: "Modules",
+            items: [
+              // {
+              //   text: "1st Year",
+              //   items: [
+              //     {
+              //       text: "BIS",
+              //       link: "https://bis.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //     {
+              //       text: "Business",
+              //       link: "https://bs.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //   ],
+              // },
+              {
+                text: "2nd Year",
+                items: [
+                  {
+                    text: "BIS",
+                    link: "https://bis.chisel.uz/",
+                    target: "_self",
+                  },
+                  {
+                    text: "Business",
+                    link: "https://bs.chisel.uz/",
+                    target: "_self",
+                  },
+                ],
+              },
+            ],
+          },
+        ],
+      }
     },
   },
 };
