@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the BIS Level 4th course</h1>
 
-<p align="center"><a href="https://bis.chisel.uz/files/handbook.pdf">Download Handbook 2020-2021</a></p>
+<p align="center"><a href="/files/handbook.pdf">Download Handbook 2020-2021</a></p>
 
 | Code      | Module name                                                    | Priority |
 | --------- | -------------------------------------------------------------- | -------- |
@@ -38,3 +38,4 @@
 - Students should ensure that they are familiar with the assessment requirements of each of their modules. This is available in module proforma (where is that?)
 - Students should ensure that they comply with these requirements.
 - Students should ensure that they are available for the Referral/Deferral examination period in case they are required to undertake a Referral or a Deferral.
+<p align="center"><video width="320" height="240" controls><source src="/videos/main/induction.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
