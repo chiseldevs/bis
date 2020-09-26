@@ -1,4 +1,4 @@
-# Welcome to the BIS Level 4th course
+<h1 align="center">Welcome to the BIS Level 4th course</h1>
 
 | Code      | Module name                                                    | Priority |
 | --------- | -------------------------------------------------------------- | -------- |
