@@ -233,18 +233,18 @@ module.exports = {
                 text: "Telegram",
                 items: [
                   {
-                    text: "Community",
-                    link: "tg://resolve?domain=chiseldevs",
-                    target: "_blank",
-                  },
-                  {
                     text: "+70 BIS",
                     link: "tg://resolve?domain=SeventyPlusBIS",
                     target: "_blank",
                   },
                   {
-                    text: "Contact",
-                    link: "tg://resolve?domain=genemator_bot",
+                    text: "Group",
+                    link: "https://t.me/bislvl4",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Feed Channel",
+                    link: "tg://resolve?domain=chiseldevs",
                     target: "_blank",
                   },
                 ],
@@ -252,11 +252,6 @@ module.exports = {
               {
                 text: "Devs",
                 items: [
-                  {
-                    text: "Group",
-                    link: "https://t.me/chiseldevs",
-                    target: "_blank",
-                  },
                   {
                     text: "GitHub",
                     link: "https://github.com/chiseldevs",
