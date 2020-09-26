@@ -2,14 +2,14 @@
 
 <p align="center"><a href="/files/handbook.pdf">Download Handbook 2020-2021</a></p>
 
-| Code      | Module name                                                    | Priority |
-| --------- | -------------------------------------------------------------- | -------- |
-| 4BUIS008C | Fundamentals of Programming (Year Long)                        | Core     |
-| 4BUIS011C | Web Technology (Year Long)                                     | Core     |
-| 4BUIS012C | Computer Science Fundamentals (Semester One)                   | Core     |
-| 4ECON006C | Introduction to Statistics and Data Science (Year Long)        | Core     |
-| 4MNST001C | Introduction to Management and Organisational Beha (Year Long) | Core     |
-| 4COSC012C | Mathematics for Computing (Semester Two)                       | Optional |
+| **Code**  | **Module name**                                                | **Priority** |
+| :-------: | -------------------------------------------------------------- | :----------: |
+| 4BUIS008C | Fundamentals of Programming (Year Long)                        |     Core     |
+| 4BUIS011C | Web Technology (Year Long)                                     |     Core     |
+| 4BUIS012C | Computer Science Fundamentals (Semester One)                   |     Core     |
+| 4ECON006C | Introduction to Statistics and Data Science (Year Long)        |     Core     |
+| 4MNST001C | Introduction to Management and Organisational Beha (Year Long) |     Core     |
+| 4COSC012C | Mathematics for Computing (Semester Two)                       |   Optional   |
 
 ## Aims of the course
 
