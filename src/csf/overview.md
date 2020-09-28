@@ -26,3 +26,18 @@
 5. Explore current trends in technology and learn to use relevant resources and
    tools
 6. Demonstrate a thorough knowledge of basic command line commands and git
+
+# Joining to video conferences
+
+**There were also kind of instruction about joining to video conference:**
+
+1. Make sure you use latest version of Chrome/Firefox
+   - In Chrome go Settings -> About Chrome
+     Or copy chrome://settings/help to the address line and update to
+     the latest version
+   - In Firefox go Help -> About Firefox
+     Update to the latest version
+2. Go to Intranet -> WLB -> Computer Science Fundamentals -> Video Conference by Timetable
+   https://intranet.wiut.uz/UserModuleMaterials/SingleModuleView?moduleId=559
+   In case of problems let’s communicate over the Telegram
+   https://t.me/joinchat/BroIMhiOgEWVP8kZQagYZA

@@ -45,11 +45,6 @@ module.exports = {
         collapsable: true,
         children: ["/csf/tw1/lecture.md", "/csf/tw1/seminar.md"],
       },
-      {
-        title: "Teaching Week 2",
-        collapsable: true,
-        children: ["/csf/tw2/lecture.md", "/csf/tw2/seminar.md"],
-      },
     ],
   },
 };
