@@ -18,5 +18,33 @@ module.exports = {
       text: "Useful",
       link: "/csf/useful",
     },
+    {
+      text: "Teaching Weeks",
+      ariaLabel: "Weeks",
+      items: [
+        {
+          text: "Teaching Week 1",
+          items: [
+            {
+              text: "Lecture",
+              link: "/csf/tw1/lecture/",
+            },
+            {
+              text: "Seminar",
+              link: "/csf/tw1/seminar/",
+            },
+          ],
+        },
+      ],
+    },
   ],
+  sidebar: {
+    "/": [
+      {
+        title: "Teaching Week 1",
+        collapsable: false,
+        children: ["/csf/tw1/lecture", "/csf/tw1/seminar/"],
+      },
+    ],
+  },
 };

@@ -22,12 +22,14 @@ arising problems!"
    https://intranet.wiut.uz/UserModuleMaterials/SingleModuleView?moduleId=559
    In case of problems let’s communicate over the Telegram
    https://t.me/joinchat/BroIMhiOgEWVP8kZQagYZA
-   
+
 # Agenda
+
 1. Module overview
-    * Team and Assessment
-    * Learning outcomes
-    * Roadmap for the semester
+   - Team and Assessment
+   - Learning outcomes
+   - Roadmap for the semester
 2. History of the computers
 3. Brief history of computing software
 
+# Module Overview
