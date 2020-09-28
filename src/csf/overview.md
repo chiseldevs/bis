@@ -11,17 +11,18 @@
 
 | Type       | Percentage |
 | ---------- | :--------: |
-| Coursework | 40%        |
-| Final Exam | 60%        |
+| Coursework |    40%     |
+| Final Exam |    60%     |
 
 ## Module Outcomes
+
 1. Identify and interpret the numerical processes running within computer system.
 2. Describe the tasks and features of each of the main components of a computer
-system and how these components work together.
+   system and how these components work together.
 3. Show understanding of the von Neumann architecture and stored program
-paradigm.
+   paradigm.
 4. Explore and experiment with algorithms and other relevant computer science
-topics.
+   topics.
 5. Explore current trends in technology and learn to use relevant resources and
-tools
+   tools
 6. Demonstrate a thorough knowledge of basic command line commands and git
