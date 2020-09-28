@@ -1,8 +1,10 @@
+const { selectText, ariaLabel, editLinkText } = require("../globalConfigs")
+
 module.exports = {
   label: "Home",
-  selectText: "Modules",
-  ariaLabel: "Modules",
-  editLinkText: "~Correct mistakes~",
+  selectText: selectText,
+  ariaLabel: ariaLabel,
+  editLinkText: editLinkText,
   nav: [
     {
       text: "Main",

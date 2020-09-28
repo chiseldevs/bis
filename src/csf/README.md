@@ -4,7 +4,7 @@ heroImage: /assets/header-logo.png
 heroText: BIS || Chisel Devs
 tagline: BSc (Hons) in Business Information Systems
 actionText: Get Started
-actionLink: /overviewz/
+actionLink: /overview/
 features:
   - title: Easy
     details: Website uses modern UIs & style components in order to make usage of application easier and clear by the first sight.
