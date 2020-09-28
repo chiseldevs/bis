@@ -1,4 +1,4 @@
-const { selectText, ariaLabel, editLinkText } = require("../globalConfigs")
+const { selectText, ariaLabel, editLinkText } = require("../globalConfigs");
 
 module.exports = {
   label: "Home",

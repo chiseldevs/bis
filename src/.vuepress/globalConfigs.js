@@ -1,5 +1,5 @@
 module.exports = {
-    selectText: "Modules",
-    ariaLabel: "Modules",
-    editLinkText: "Correct mistakes ~>",
-}
+  selectText: "Modules",
+  ariaLabel: "Modules",
+  editLinkText: "Correct mistakes ~>",
+};
