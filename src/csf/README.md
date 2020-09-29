@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/header-logo.png
 heroText: BIS || Chisel Devs
-tagline: BSc (Hons) in Business Information Systems
+tagline: Computer Science Fundamentals (Semester One)
 actionText: Get Started
 actionLink: /csf/overview/
 footer: GNU Lesser General Public License v3.0 | Copyright © 2020 Chisel Devs
