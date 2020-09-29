@@ -35,14 +35,14 @@ The purpose of any organization is to provide useful goods and/or services that 
 
 ### Levels of Managers
 
--Top managers – guide the performance of the organization as a whole or of one of its major parts
--Middle managers – oversee the work of large departments or divisions
--First – line managers – supervise people who perform non managerial duties
+- Top managers – guide the performance of the organization as a whole or of one of its major parts
+- Middle managers – oversee the work of large departments or divisions
+- First – line managers – supervise people who perform non managerial duties
 
 ### Types of Managers
 
--Line managers are responsible for work activities that directly affect organization’s outputs
--Staff managers use technical expertise to advise and support the efforts of line workers
--Functional managers are responsible for a single area of activity
--General managers are responsible for more complex units that include many functional areas.
--Administrators work in public and nonprofit organizations
+- Line managers are responsible for work activities that directly affect organization’s outputs
+- Staff managers use technical expertise to advise and support the efforts of line workers
+- Functional managers are responsible for a single area of activity
+- General managers are responsible for more complex units that include many functional areas.
+- Administrators work in public and nonprofit organizations
