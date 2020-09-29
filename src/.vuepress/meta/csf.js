@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       text: "Useful",
-      link: "/csf/useful",
+      link: "/csf/useful/",
     },
     {
       text: "Teaching Weeks",
