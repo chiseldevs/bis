@@ -33,6 +33,10 @@ module.exports = {
               text: "Seminar",
               link: "/isds/tw1/seminar/",
             },
+            {
+              text: "Quiz",
+              link: "/isds/tw1/quiz/"
+            }
           ],
         },
       ],
@@ -46,11 +50,7 @@ module.exports = {
         children: [
           "/isds/tw1/lecture.md",
           "/isds/tw1/seminar.md",
-          {
-            text: "Quiz",
-            link:
-              "https://intranet.wiut.uz/Questionnaire/AnswerQuestionnaire?ID=531&moduleID=0&way=lm",
-          },
+          "/isds/tw1/quiz.md"
         ],
       },
     ],
