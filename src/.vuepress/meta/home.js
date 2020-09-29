@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       text: "Chisel",
-      link: "https://chisel.uz",
+      link: "https://github.com/chiseldevs",
       target: "_self",
     },
     {
