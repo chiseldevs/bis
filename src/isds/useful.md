@@ -14,7 +14,7 @@
 #### Windows
 
 - [Microsoft Office 2019 \[TAS-IX\](Patched)](https://alltor.me/viewtopic.php?t=147583)
-- [Microsoft Office 2019 \[YANDEX\](Patched)](https://yadi.sk/d/M4xy8BhyAdThUA?w=1) ([x64](https://yadi.sk/d/OYII8GaZ0plsDw)|[x32]())
+- [Microsoft Office 2019 \[YANDEX\](Patched)](https://yadi.sk/d/M4xy8BhyAdThUA?w=1) ([x64](https://yadi.sk/d/OYII8GaZ0plsDw)|[x32](https://yadi.sk/d/HkqUY2PrgnGQgw))
 
 #### MacOS
 - [Microsoft Office 2019 \[TAS-IX\](Patched)](https://alltor.me/viewtopic.php?t=154970)
