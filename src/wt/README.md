@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/header-logo.png
+heroImage: /assets/modules/wt.png
 heroText: BIS || Chisel Devs
 tagline: Web Technology (Year Long)
 actionText: Get Started

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/header-logo.png
+heroImage: /assets/modules/isds.png
 heroText: BIS || Chisel Devs
 tagline: Introduction to Statistics and Data Science (Year Long)
 actionText: Get Started

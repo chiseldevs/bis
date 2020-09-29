@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/header-logo.png
+heroImage: /assets/modules/csf.png
 heroText: BIS || Chisel Devs
 tagline: Computer Science Fundamentals (Semester One)
 actionText: Get Started

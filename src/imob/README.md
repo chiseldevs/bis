@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/header-logo.png
+heroImage: /assets/modules/imob.png
 heroText: BIS || Chisel Devs
 tagline: Introduction to Management and Organisational Behavior (Year Long)
 actionText: Get Started

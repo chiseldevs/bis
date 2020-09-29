@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/header-logo.png
+heroImage: /assets/modules/fop.png
 heroText: BIS || Chisel Devs
 tagline: BSc (Hons) in Business Information Systems
 actionText: Get Started
