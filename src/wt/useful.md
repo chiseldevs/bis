@@ -2,6 +2,7 @@
 
 - [WIUT's WT Storage](http://download.wiut.uz/Web%20Technology/)
 - [Chisel Dev's Learning Repo](https://github.com/chiseldevs/wt)
+- [HTML Cheatsheet](/files/wt/HTML%20Cheatsheet.pdf)
 
 # Downloads
 

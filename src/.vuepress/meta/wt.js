@@ -43,7 +43,7 @@ module.exports = {
       {
         title: "Teaching Week 1",
         collapsable: true,
-        children: ["/imob/wt/lecture.md", "/imob/wt/seminar.md"],
+        children: ["/wt/tw1/lecture.md", "/wt/tw1/seminar.md"],
       },
     ],
   },
