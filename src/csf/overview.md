@@ -33,7 +33,7 @@
 
 1. Make sure you use latest version of Chrome/Firefox
    - In Chrome go Settings -> About Chrome
-     Or copy chrome://settings/help to the address line and update to
+     Or copy chrome://settings/help to the address lines and update to
      the latest version
    - In Firefox go Help -> About Firefox
      Update to the latest version
