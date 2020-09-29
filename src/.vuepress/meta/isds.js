@@ -35,8 +35,8 @@ module.exports = {
             },
             {
               text: "Quiz",
-              link: "/isds/tw1/quiz/"
-            }
+              link: "/isds/tw1/quiz/",
+            },
           ],
         },
       ],
@@ -50,7 +50,7 @@ module.exports = {
         children: [
           "/isds/tw1/lecture.md",
           "/isds/tw1/seminar.md",
-          "/isds/tw1/quiz.md"
+          "/isds/tw1/quiz.md",
         ],
       },
     ],
