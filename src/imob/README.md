@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/header-logo.png
 heroText: BIS || Chisel Devs
-tagline: Introduction to Management and Organisational Beha (Year Long)
+tagline: Introduction to Management and Organisational Behavior (Year Long)
 actionText: Get Started
 actionLink: /imob/overview/
 footer: GNU Lesser General Public License v3.0 | Copyright © 2020 Chisel Devs
